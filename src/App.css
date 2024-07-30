@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+}
+.cardcontainer{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.name{
+  font-family: 'Dosis', sans-serif;
+}
