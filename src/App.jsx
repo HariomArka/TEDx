@@ -1,6 +1,6 @@
 import { useContext } from 'react'
 import './App.css'
-import Card from './components/Card.jsx'
+import Card from './components/Card'
 import { imageContext } from './context/Context'
 
 function App() {
